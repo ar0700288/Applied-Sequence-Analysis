@@ -1,0 +1,3 @@
+variant_id,chrom,position_bp,ref,alt,gene,consequence,seq_case_wes_gt,seq_case_wgs_gt
+chr7_44806821,chr7,44806821,G,C,LOXHD1,missense,hom_alt,hom_alt
+chr24_25785932,chr24,25785932,C,T,MROH8,missense,hom_alt,hom_alt

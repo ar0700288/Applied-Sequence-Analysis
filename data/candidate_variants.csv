@@ -1,0 +1,11 @@
+variant_id,chrom,position_bp,ref,alt,gene,consequence,seq_case_wes_gt,seq_case_wgs_gt
+chr7_44806821,chr7,44806821,G,C,LOXHD1,missense,hom_alt,hom_alt
+chr24_25785932,chr24,25785932,C,T,MROH8,missense,hom_alt,hom_alt
+chr7_43550210,chr7,43550210,A,G,SLC26A9,intronic,hom_alt,hom_alt
+chr7_42980440,chr7,42980440,T,C,ANKRD11,UTR,hom_alt,hom_alt
+chr24_25610900,chr24,25610900,G,A,TMC1,intronic,hom_alt,hom_alt
+chr7_44120330,chr7,44120330,C,T,LOXHD1,intronic,hom_alt,hom_alt
+chr24_26050770,chr24,26050770,A,T,MROH8,synonymous,hom_alt,hom_alt
+chr7_43700000,chr7,43700000,G,A,COL4A3,missense,hom_alt,hom_alt
+chr2_20000000,chr2,20000000,A,C,RANDOMX,missense,hom_alt,hom_alt
+chr7_41000000,chr7,41000000,T,G,RANDOMY,missense,hom_alt,hom_alt

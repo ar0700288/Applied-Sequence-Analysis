@@ -1,0 +1,12 @@
+LOXHD1 reproduction pipeline - validation report
+==================================================
+Paper's reported causal variant: LOXHD1 chr7:44806821 G>C (p.(G1914A))
+Pipeline's top candidate:        LOXHD1 chr7:44806821 G>C
+
+  [match] gene
+  [match] chromosome
+  [match] position
+  [match] reference allele
+  [match] alternate allele
+
+RESULT: PASS - pipeline recovered the paper's reported variant
