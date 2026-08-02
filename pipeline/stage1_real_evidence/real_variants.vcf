@@ -1,0 +1,8 @@
+##fileformat=VCFv4.2
+##source=pull_and_build_vcf.py (real read counts, SRA BioProject PRJNA702911)
+##INFO=<ID=GENE,Number=1,Type=String,Description="Gene containing this variant (from paper annotation)">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=AD,Number=R,Type=Integer,Description="Allelic depths for ref,alt (real read counts)">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	wes_case	wgs_case
+chr7	44806821	.	G	C	.	PASS	GENE=LOXHD1	GT:AD	1/1:0,34	1/1:0,16
+chr24	25785932	.	C	T	.	PASS	GENE=MROH8	GT:AD	1/1:1,34	1/1:0,14

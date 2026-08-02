@@ -1,0 +1,3 @@
+gene,chrom,position,ref,alt,provean_score,provean_call,polyphen_score,polyphen_call,known_hearing_gene,score
+LOXHD1,chr7,44806821,G,C,-4.517,deleterious,0.992,probably damaging,True,4
+MROH8,chr24,25785932,C,T,-3.336,deleterious,0.55,possibly damaging,False,2

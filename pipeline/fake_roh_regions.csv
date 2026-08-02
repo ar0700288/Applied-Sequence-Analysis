@@ -1,0 +1,9 @@
+# FAKE DATA - no real SNP-array genotypes are public for this study's cohort, so
+# homozygosity mapping was never actually performed in this project. These two region
+# boundaries are taken directly from what the paper itself reports (chr7 region: Fig. 2b,
+# 41.2-45.5 Mb; chr24 region: approximate, based on the variant's own position, since the
+# paper does not give exact boundaries for every one of its 22 ROH regions). Nothing here
+# was computed - it is stated, not derived.
+chrom,start_bp,end_bp
+chr7,41200000,45500000
+chr24,25000000,26500000

@@ -1,0 +1,7 @@
+# FAKE DATA - no real control-genome panel is public. The paper's real control cohort
+# (637 genomes for SNV/indel filtering) is a private DBVDC consortium resource - never
+# released. These values are invented, only to demonstrate the "rare in healthy dogs"
+# check on something. There is no public source these numbers could have come from.
+gene,chrom,position,n_controls,n_het,n_hom_alt
+LOXHD1,chr7,44806821,10,2,0
+MROH8,chr24,25785932,10,1,0

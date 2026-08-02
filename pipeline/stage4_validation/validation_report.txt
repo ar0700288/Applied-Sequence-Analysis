@@ -9,4 +9,4 @@ Pipeline's top candidate:        LOXHD1 chr7:44806821 G>C
   [match] reference allele
   [match] alternate allele
 
-RESULT: PASS - pipeline recovered the paper's reported variant
+RESULT: PASS - matches the paper's reported variant
