@@ -196,3 +196,7 @@ To force stage 1 to actually re-fetch from NCBI, delete the `.sam` files in
 `stage1_real_evidence/evidence/`, download the SRA Toolkit from
 https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/current/sratoolkit.current-win64.zip, and
 point the SRATOOLS_BIN environment variable at its `bin` folder.
+
+## License
+
+The code in this project is released under the [MIT License](LICENSE). The SRA sequencing data and reference files keep their own terms of use.

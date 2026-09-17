@@ -12,3 +12,7 @@ project with its own code, results and documentation.
 ```bash
 git clone https://github.com/ar0700288/Applied-Sequence-Analysis.git
 ```
+
+## License
+
+All projects in this repository are released under the [MIT License](LICENSE).
