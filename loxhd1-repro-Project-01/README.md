@@ -150,7 +150,7 @@ report that currently says PASS, LOXHD1, chr7:44,806,821 G>C.
 ## Directory layout
 
 ```
-loxhd1-repro/
+loxhd1-repro-Project-01/
 ├── README.md                          this file
 └── pipeline/
     ├── run_pipeline.py                 runs all 4 stages in order

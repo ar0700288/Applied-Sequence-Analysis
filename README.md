@@ -5,7 +5,7 @@ project with its own code, results and documentation.
 
 | Project | Summary |
 |---|---|
-| [loxhd1-repro](loxhd1-repro/) | Reproduction of the LOXHD1 canine deafness variant pipeline (Hytönen et al. 2021) using real SRA data, with clearly labelled stand-ins for private inputs. |
+| [loxhd1-repro-Project-01](loxhd1-repro-Project-01/) | Reproduction of the LOXHD1 canine deafness variant pipeline (Hytönen et al. 2021) using real SRA data, with clearly labelled stand-ins for private inputs. |
 
 ## Download
 
